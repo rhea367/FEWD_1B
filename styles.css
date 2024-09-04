@@ -1,0 +1,40 @@
+body h1,h2,p{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:1.6;
+}
+header{
+    background-color: #917938;
+    color: #fff;
+    text-align:center;
+    padding:1rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h2{
+    text-align:center;
+}
+main{
+    padding:2rem;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+footer{
+    text-align:center;
+    padding:1rem 0;
+    background-color: #917938;
+    color:#fff;
+    bottom:0;
+    left:0;
+    right:0;
+    position:absolute;
+}
+
+
